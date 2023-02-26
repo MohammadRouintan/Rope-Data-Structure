@@ -34,14 +34,6 @@ public class RopeTest {
 //        char ch;
 //        do
 //        {
-//            System.out.println("\nRope Operations\n");
-//            System.out.println("1. concat ");
-//            System.out.println("2. get character at index");
-//            System.out.println("3. substring");
-//            System.out.println("4. clear");
-//
-//            int choice = scan.nextInt();
-//            switch (choice)
 //            {
 //                case 1 :
 //                    System.out.println("Enter string to concat");
@@ -67,8 +59,6 @@ public class RopeTest {
 //            System.out.print("\nRope : ");
 //            r.print();
 //
-//            System.out.println("\nDo you want to continue (Type y or n) \n");
-//            ch = scan.next().charAt(0);
 //        } while (ch == 'Y'|| ch == 'y');
 //    }
 //}
